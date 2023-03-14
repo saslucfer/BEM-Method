@@ -13,7 +13,8 @@
 
 ### Results
 
->
+>[Cp-landa-E387.pdf](https://github.com/saslucfer/BEM-Method/files/10967384/Cp-landa-E387.pdf)
+
 
 
 ## Generating power curves of different airfoils
