@@ -29,5 +29,5 @@
 ### Results
 >Power curves of E780 are plotted in different Reynolds
 
-[Cp-landa-different Re.pdf](https://github.com/saslucfer/BEM-Method/files/10967494/Cp-landa-different.Re.pdf)
+>[Cp-landa-different Re.pdf](https://github.com/saslucfer/BEM-Method/files/10967494/Cp-landa-different.Re.pdf)
 
