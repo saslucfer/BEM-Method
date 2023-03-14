@@ -12,20 +12,20 @@
 ## Comparing generated curve with experimental data
 
 ### Results
+>[Cp-landa-E387.pdf](https://github.com/saslucfer/BEM-Method/files/10967414/Cp-landa-E387.pdf)
 
->[Cp-landa-E387.pdf](https://github.com/saslucfer/BEM-Method/files/10967384/Cp-landa-E387.pdf)
-
-
+>
 
 ## Generating power curves of different airfoils
 
 ### Results
 
+>[power curve for different airfoils.pdf](https://github.com/saslucfer/BEM-Method/files/10967417/power.curve.for.different.airfoils.pdf)
 >
-
 
 ## Generating power curves of specific airfoil in different reynolds
 
 ### Results
 
->
+>[Cp-landa-diffrent Re.pdf](https://github.com/saslucfer/BEM-Method/files/10967418/Cp-landa-diffrent.Re.pdf)
+
