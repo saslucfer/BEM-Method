@@ -27,5 +27,5 @@
 
 ### Results
 
->[Cp-landa-diffrent Re.pdf](https://github.com/saslucfer/BEM-Method/files/10967418/Cp-landa-diffrent.Re.pdf)
+[Cp-landa-different Re.pdf](https://github.com/saslucfer/BEM-Method/files/10967436/Cp-landa-different.Re.pdf)
 
