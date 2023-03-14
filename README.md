@@ -3,12 +3,11 @@
 
 > Make sure you installed matlab & microsoft office
 
-> 
+> Power curves of a specific wind turbine are plotted in matlab with BEM method
 
 > Experimental data extracted from Qblade
 
->
-
+ 
 ## Comparing generated curve with experimental data
 
 ### Results
